@@ -1,13 +1,13 @@
 @font-face {
     font-family: 'Inversionz Unboxed';
-    src:url(fonts/Inversionz_Unboxed.ttf) format('truetype');
+    src:url("../fonts/Inversionz_Unboxed.ttf") format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face{
     font-family: 'Caviar Dreams';
-    src: url(fonts/CaviarDreams.ttf) format('truetype');
+    src: url("../fonts/CaviarDreams.ttf") format('truetype');
     font-weight: normal;
     font-style: normal;
 }
