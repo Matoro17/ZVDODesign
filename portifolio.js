@@ -107,6 +107,19 @@ data =[
 
         "Descricao": "Demonstração de Efeitos e motion tracking para executa uma holograma",
         "Data":"2017" 
+    },
+    {//
+        "Titulo": "Impressão 3D",
+        "Subtitulo":"Modelagem e impressão de Objetos em 3D",
+        "SubSubTitulo": "Impressão 3D",
+        "SubSubSubTitulo":"Traga vida a sua imaginação",
+
+        "Tipo": "impressão 3d",
+        "Midia": "img/portfolio/09-thumbnail.jpg",
+        "InsideMidia": '<div id="sales" class="carousel slide" data-ride="carousel">        <div class="carousel-inner">          <div class="carousel-item active">            <img class="d-block w-100" src="img/portfolio/09-full-1.jpg" alt="">          </div>          <div class="carousel-item">            <img class="d-block w-100" src="img/portfolio/09-full-2.jpg" alt="">          </div>          <div class="carousel-item">            <img class="d-block w-100" src="img/portfolio/09-full-3.jpg" alt="">          </div>    <div class="carousel-item">            <img class="d-block w-100" src="img/portfolio/09-full-4.jpg" alt="">          </div>    </div>        <a class="carousel-control-prev" href="#sales" role="button" data-slide="prev">          <span class="carousel-control-prev-icon" aria-hidden="true"></span>          <span class="sr-only">Anterior</span>        </a>        <a class="carousel-control-next" href="#sales" role="button" data-slide="next">          <span class="carousel-control-next-icon" aria-hidden="true"></span>          <span class="sr-only">Próximo</span>        </a>      </div>', 
+
+        "Descricao": "Impressão de Diversos Objetos em PLA, sendo um deles uma caixa para um atuador para o teclado de braile, e também chaveiros personalizados",
+        "Data":"2019" 
     }
 ]
 
