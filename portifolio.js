@@ -116,9 +116,22 @@ data =[
 
         "Tipo": "impressão 3d",
         "Midia": "img/portfolio/09-thumbnail.jpg",
-        "InsideMidia": '<div id="sales" class="carousel slide" data-ride="carousel">        <div class="carousel-inner">          <div class="carousel-item active">            <img class="d-block w-100" src="img/portfolio/09-full-1.jpg" alt="">          </div>          <div class="carousel-item">            <img class="d-block w-100" src="img/portfolio/09-full-2.jpg" alt="">          </div>          <div class="carousel-item">            <img class="d-block w-100" src="img/portfolio/09-full-3.jpg" alt="">          </div>    <div class="carousel-item">            <img class="d-block w-100" src="img/portfolio/09-full-4.jpg" alt="">          </div>    </div>        <a class="carousel-control-prev" href="#sales" role="button" data-slide="prev">          <span class="carousel-control-prev-icon" aria-hidden="true"></span>          <span class="sr-only">Anterior</span>        </a>        <a class="carousel-control-next" href="#sales" role="button" data-slide="next">          <span class="carousel-control-next-icon" aria-hidden="true"></span>          <span class="sr-only">Próximo</span>        </a>      </div>', 
+        "InsideMidia": '<div id="3dprint" class="carousel slide" data-ride="carousel">        <div class="carousel-inner">          <div class="carousel-item active">            <img class="d-block w-100" src="img/portfolio/09-full-1.jpg" alt="">          </div>          <div class="carousel-item">            <img class="d-block w-100" src="img/portfolio/09-full-2.jpg" alt="">          </div>          <div class="carousel-item">            <img class="d-block w-100" src="img/portfolio/09-full-3.jpg" alt="">          </div>    <div class="carousel-item">            <img class="d-block w-100" src="img/portfolio/09-full-4.jpg" alt="">          </div>    </div>        <a class="carousel-control-prev" href="#3dprint" role="button" data-slide="prev">          <span class="carousel-control-prev-icon" aria-hidden="true"></span>          <span class="sr-only">Anterior</span>        </a>        <a class="carousel-control-next" href="#3dprint" role="button" data-slide="next">          <span class="carousel-control-next-icon" aria-hidden="true"></span>          <span class="sr-only">Próximo</span>        </a>      </div>', 
 
         "Descricao": "Impressão de Diversos Objetos em PLA, sendo um deles uma caixa para um atuador para o teclado de braile, e também chaveiros personalizados",
+        "Data":"2019" 
+    },
+    {//
+        "Titulo": "Carteiras Customizadas",
+        "Subtitulo":"Desgin e impressão de carteiras customizadas",
+        "SubSubTitulo": "Carteiras de Papel",
+        "SubSubSubTitulo":"Resistente a água!",
+
+        "Tipo": "Design Gráfico",
+        "Midia": "img/portfolio/10-thumbnail.jpg",
+        "InsideMidia": '<div id="carteira" class="carousel slide" data-ride="carousel">        <div class="carousel-inner">          <div class="carousel-item active">            <img class="d-block w-100" src="img/portfolio/10-full-1.jpg" alt="">          </div>          <div class="carousel-item">            <img class="d-block w-100" src="img/portfolio/10-full-2.jpg" alt="">          </div>          <div class="carousel-item">            <img class="d-block w-100" src="img/portfolio/10-full-3.jpg" alt="">          </div>        </div>        <a class="carousel-control-prev" href="#carteira" role="button" data-slide="prev">          <span class="carousel-control-prev-icon" aria-hidden="true"></span>          <span class="sr-only">Anterior</span>        </a>        <a class="carousel-control-next" href="#carteira" role="button" data-slide="next">          <span class="carousel-control-next-icon" aria-hidden="true"></span>          <span class="sr-only">Próximo</span>        </a>      </div>', 
+
+        "Descricao": "Carteiras fininhas que cabem tudo que você precisa, em 3 tamanhos, a pequena e a média comportam o documento da CNH e a grande foi feita para caber o RG, entre em contato para adiquirir a sua!",
         "Data":"2019" 
     }
 ]
